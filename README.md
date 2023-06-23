@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Felipe2559
-- 👀 I’m interested in learning more about this process
-- 🌱 I’m currently learning about Agile Software Development
-- 💞️ I’m looking to collaborate on CO involvement in acquiring softwares for government
+- 👀 I’m interested in learning more about coding and acquisitions
+- 🌱 I’m currently learning about Agile Software Development and IT INFRASTRUCTURE AND ARCHITECTURAL DESIGN
+- 💞️ I’m looking to collaborate on CO involvement in acquiring IT hardware and softwares for government
 - 📫 How to reach me Felipe2559@icloud.com
 
 <!---
